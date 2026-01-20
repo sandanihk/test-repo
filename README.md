@@ -9,3 +9,5 @@ I can use simple text formatting to make **bold** or *italicized* text!
 ## Added this new section on a branch
 
 I am editing this file in RStudio!
+
+Hello. I am editing this file once again!
